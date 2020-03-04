@@ -9,7 +9,7 @@ For simplicity without having to download or install anything, you can follow th
 ## Run Result
 
 ### Sample Case
-
+(See the pyramid in raw mode, or in text editor)
 Input:
    3
   7 4
@@ -19,7 +19,7 @@ Input:
 Output: 23
 
 ### Real Case
-
+(See the pyramid in raw mode, or in text editor)
 Input:
                             75
                           95  64
